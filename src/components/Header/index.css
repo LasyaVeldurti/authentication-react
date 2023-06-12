@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.logo-img {
+  width: 150px;
+}
+.ul-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+}

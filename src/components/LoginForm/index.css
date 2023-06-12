@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.bg-container {
+  height: 100vh;
+  padding: 40px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: roboto;
+}
+.login-img {
+  width: 60%;
+  height: 60%;
+}
+.logo-img {
+  width: 150px;
+}
+.error-message {
+  color: #ff0b37;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 4px 4px 16px 4px #bf;
+  padding: 12px;
+}
+.login-form {
+  color: #475569;
+}
